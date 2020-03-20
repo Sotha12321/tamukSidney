@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 16F8-156A
+
+ Directory of C:\Users\Sidney Freeborn\Desktop\My project
+
+03/17/2020  10:06 PM    <DIR>          .
+03/17/2020  10:06 PM    <DIR>          ..
+03/17/2020  10:06 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,032,626,688 bytes free
